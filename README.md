@@ -12,7 +12,7 @@ Recife, PE · Sistemas para Internet (UNICAP) · Estagiário de desenvolvimento 
 
 **Em destaque**
 
-> **[AutoShop Pro](https://github.com/SEU-USUARIO/autoshop-pro)**
+> **[AutoShop Pro](https://github.com/vitorferrr/Back-AutoShop)**
 > Sistema de gestão para oficinas mecânicas. API REST com autenticação JWT, testes de integração e documentação OpenAPI. Frontend em Next.js.
 
 **Agora**
@@ -22,4 +22,4 @@ Estudando testes com JUnit e Mockito, e otimização de consultas SQL.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/SEU-PERFIL) · [Portfólio](https://SEU-PORTFOLIO.vercel.app) · [Email](mailto:SEU-EMAIL)
+[LinkedIn](https://www.linkedin.com/in/vitor-dos-santos-ferreira-1b7990252/) · [Portfólio](https://portfolio-vitor-iota.vercel.app/) · [Email](mailto:vitorferr1412@gmail.com)
