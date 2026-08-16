@@ -29,7 +29,7 @@
 
 ### Projeto em destaque
 
-**[AutoShop Pro](https://github.com/SEU-USUARIO/autoshop-pro)** — Sistema de gestão para oficinas mecânicas.
+**[AutoShop Pro](https://github.com/vitorferrr/Back-AutoShop)** — Sistema de gestão para oficinas mecânicas.
 API REST com autenticação JWT, controle de estoque, testes de integração e documentação OpenAPI.
 
 `Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `Next.js`
