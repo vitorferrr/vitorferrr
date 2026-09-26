@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vitor-dos-santos-ferreira-1b7990252/"><img src="https://img.shields.io/badge/LinkedIn-374151?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/vitorsantosferreira/"><img src="https://img.shields.io/badge/LinkedIn-374151?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://portfolio-vitor-iota.vercel.app/"><img src="https://img.shields.io/badge/Portfólio-374151?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"></a>
   <a href="mailto:vitorferr1412@gmail.com"><img src="https://img.shields.io/badge/Email-374151?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
@@ -15,8 +15,7 @@
 ### Sobre
 
 - Estudante de Tecnologia em Sistemas para Internet na **UNICAP** — Recife, PE
-- Estagiário de desenvolvimento no **PROCON**, Prefeitura de Jaboatão dos Guararapes
-- Estudando testes com JUnit e Mockito, e otimização de consultas SQL
+- Estagiário Fullstack com ênfase em IA no **CIA - UNICAP**
 
 ### Stack
 
